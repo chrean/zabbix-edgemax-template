@@ -144,7 +144,7 @@ zabbix_export:
             - tag: component
               value: system
         - uuid: 74e161402bc1440e8d30a413c7a0968e
-          name: 'EdgeMAX: Memory utizilation'
+          name: 'EdgeMAX: Memory utilization'
           type: CALCULATED
           key: MemUtil
           history: 7d

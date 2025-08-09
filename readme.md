@@ -54,6 +54,7 @@ Updated as of 2023-11-08.
 
 - **EdgeSwitch**
   - ES-10XP
+  - ES-24-250W
 
 ## Issues
 - [Wrong ethernet link status/speed via SNMP](https://community.ui.com/questions/Wrong-ethernet-link-status-speed-via-SNMP/6e50940c-3cc1-4242-9881-5c03e7892ebf)
@@ -62,3 +63,4 @@ Updated as of 2023-11-08.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
